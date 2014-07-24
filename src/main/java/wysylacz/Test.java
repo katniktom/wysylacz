@@ -21,7 +21,7 @@ public class Test {
 	public static void main(String[] args) throws MessagingException {
 		{
 			String host = "poczta.interia.pl";
-			String Password = "distefanoi";
+			String Password = "xxxxx";
 			String from = "katniktom@interia.pl";
 			
 			String toAddress = "llekutek@gmail.com";
